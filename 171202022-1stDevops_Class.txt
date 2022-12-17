@@ -1,0 +1,77 @@
+
+1. ls
+
+2. ll
+
+3. date 
+
+4. pwd
+
+5. clear
+
+6. whoami
+
+7. touch file 
+
+8. mkdir 
+
+9. rm
+
+10 . rm -rf (rm -remove ,-r recursive -f : forcefull)
+
+11. git init 
+
+12. Changing directory :cd
+-----------------
+
+
+intializing the git wil create .git
+
+git init  ---> .git 
+
+
+git status ---> red clouour files -- not tracked by git 
+
+           ---> green colour files ---> tacking by git 
+		   
+		   
+		   
+git add <name of the file >  
+
+
+git commit -m "adding some message "
+
+
+git  show commit-id
+
+git restore
+
+git log  
+
+
+git log --oneline  
+
+git reset --hard 
+-------------------------
+A---6am --2pm
+
+b--- 2pm --10pm 
+
+
+C--10pm --- 
+
+A ---file1 
+
+
+hub/repository /bucket/folder  -- files
+
+git hub/git repository /git bucket/git folder  -- files
+
+git clone Url 
+
+Open source /enterprise edition 
+
+
+
+
+
